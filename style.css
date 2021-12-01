@@ -1,4 +1,6 @@
 body {
     background-image: url("Galaxy.png");
     background-position: fixed;
+    weight:auto;
+    height: auto;
 }
