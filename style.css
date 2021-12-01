@@ -4,6 +4,7 @@ p , h1 {
 
 body {
     background-image: url("Galaxy.png");
-    background-size: auto;
+    background-size: 50%;
+    
 
 }
