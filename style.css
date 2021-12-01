@@ -4,6 +4,6 @@ p {
 
 body {
     background-image: url("Galaxy.png");
-    background-size: contain;
-    
+    background-size: auto;
+
 }
